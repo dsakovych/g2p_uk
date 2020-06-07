@@ -34,7 +34,9 @@ It allows us to include stress as a feature, but ignore it's impact on the final
 ### Attention weights examples
 
 Example 1:
+
 ![attention_1](data/attention1.png "Attention_1 example")
 
 Example 2:
+
 ![attention_2](data/attention2.png "Attention_2 example")
