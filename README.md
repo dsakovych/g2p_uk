@@ -26,10 +26,10 @@ It allows us to include stress as a feature, but ignore it's impact on the final
 
 | scenario | train WAcc, % | val WAcc, % |
 |----------|---------------|-------------|
-| 1        | -             | 86.15       |
-| 2        | -             | 80.73       |
-| 3        | -             | 88.42       |
-| 4        | -             | 98          |
+| 1        | -             | 87.10       |
+| 2        | -             | 82.81       |
+| 3        | -             | 89.62       |
+| 4        | -             | 99.0         |
 
 ### Attention weights examples
 
